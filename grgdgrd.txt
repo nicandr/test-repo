@@ -23,3 +23,4 @@ cetvertii commit
 peatii commit
 
 sestoi commit
+sedimoi commit
