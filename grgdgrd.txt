@@ -12,3 +12,6 @@ s
 
 <index>
 vtoroti coomit
+
+<index> 
+tretii commit
