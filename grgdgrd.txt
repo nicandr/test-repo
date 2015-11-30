@@ -25,3 +25,4 @@ peatii commit
 sestoi commit
 sedimoi commit
 vosimoi commit
+deveatii commit
