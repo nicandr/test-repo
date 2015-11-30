@@ -24,3 +24,4 @@ peatii commit
 
 sestoi commit
 sedimoi commit
+vosimoi commit
