@@ -15,3 +15,7 @@ vtoroti coomit
 
 <index> 
 tretii commit
+
+
+--------------
+cetvertii commit
